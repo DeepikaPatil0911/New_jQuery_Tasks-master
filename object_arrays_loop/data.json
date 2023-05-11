@@ -1,0 +1,17 @@
+[
+   {
+      "name": "deepika",
+      "age": "25",
+      "dept": "tech1"
+   },
+   {
+      "name": "adarsh",
+      "age": "26",
+      "dept": "tech2"
+   },
+   {
+      "name": "SHRADDHA",
+      "age": "27",
+      "dept": "tech3"
+   }
+]
